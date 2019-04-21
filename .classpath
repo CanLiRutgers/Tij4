@@ -19,5 +19,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/lican/eclipse-workspace/tij4-maven-master/lib/tools-1.7.0.51.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lican/eclipse-workspace/tij4-maven-master/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lican/eclipse-workspace/tij4-maven-master/lib/swt.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
