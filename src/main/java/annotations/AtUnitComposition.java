@@ -15,7 +15,7 @@ public class AtUnitComposition {
   }
   public static void main(String[] args) throws Exception {
     OSExecute.command(
-     "java net.mindview.atunit.AtUnit AtUnitComposition");
+     "java net.mindview.atunit.AtUnit C:\\Users\\lican\\eclipse-workspace\\tij4-maven-master\\target\\classes\\annotations\\AtUnitComposition");
   }
 } /* Output:
 annotations.AtUnitComposition
